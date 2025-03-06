@@ -28,7 +28,7 @@ export default function ProjectsSection() {
 									<div>
 										<h3 className="text-2xl font-bold mb-4 text-gray-900">Automated Online Playlist from iPod Classic</h3>
 										<p className="text-gray-600">
-											Set of Python Scripts to parse & extract embedded meta data from iPod Classic, and create both Spotify & Youtube playlists from respective API's. Any data unavailable in Spotify service becomes saved in both JSON & TXT file with all available information for personal use.
+											Set of Python Scripts to parse & extract embedded meta data from iPod Classic, and create both Spotify & Youtube playlists from respective API&apos;s. Any data unavailable in Spotify service becomes saved in both JSON & TXT file with all available information for personal use.
 										</p>
 									</div>
 
