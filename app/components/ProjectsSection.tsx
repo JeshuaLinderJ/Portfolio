@@ -56,8 +56,8 @@ export default function ProjectsSection() {
 										<h4 className="text-sm font-semibold text-teal-600">Key Achievements</h4>
 										<ul className="space-y-2 text-sm text-gray-600">
 											<li>• 100% of iPod Songs Documented</li>
-											<li>• >90% Songs Uploaded onto Online Playlist</li>
-											<li>• 15,000% Faster than Physically Uploading (>24hr to 10min)</li>
+											<li>• {'>'}90% Songs Uploaded onto Online Playlist</li>
+											<li>• 15,000% Faster than Physically Uploading ({'>'}24hr to 10min)</li>
 											<li>• 100% Reduction in Cost (Free Solution as Opposed to Repair)</li>
 											<li>• Open Source Solution Documented and Shared Online via GitHub</li>
 										</ul>
