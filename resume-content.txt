@@ -1,0 +1,55 @@
+
+1
+
+Automatic Zoom
+Jeshua Linder Jiménez 
+Contact 
+jeshualinderj@gmail.com  Jeshua.linder@upr.edu    www.linkedin.com/in/jeshualinderjimenez/ 
+https://github.com/JeshuaLinderJ  https://portfolio-git-main-jeshuas-projects-51037369.vercel.app/ 
+Education 
+University of Puerto Rico, Mayagüez –   B.S. in Software Engineering,                                Expected Fall 2028 
+Professional Experience 
+Technical Lead, Roadeo Inc. – San Juan, PR          May 2024 – Ongoing 
+- Led development and maintenance of Roadeo’s mobile and web applications, optimizing backend API 
+requests by 90% and significantly reducing cloud infrastructure costs by hundreds of dollars. [Dart, 
+TypeScript, JavaScript, Node.js, APIs,  
+- Designed and implemented CI/CD pipelines across Android, iOS, and web platforms via GitHub Actions, 
+establishing industry-standard deployment processes, implementing a 4-tier testing framework and 
+distinct development environments, applying DevOps & OWASP principles. 
+- Achieved a 96% reduction in app startup time (from 4.69s to 118ms) and contributed to a 50% user base 
+growth in 60 days, directly attributed to quality improvement via time-on-app and acceptance testing 
+among thousands of users. 
+- Developed multiple APIs for payment services and have begun laying groundwork for custom locally 
+hosted server for personalized services/features to over 50 businesses across the country. 
+Embedded/Full Stack Software Engineer, Loxodon-1 – Mayagüez, PR                                   Jan 2024 - Ongoing 
+- Designed, developed, and deployed, Docker-mounted Rocket Engine Control/Monitoring Hub 
+- Directly responsible for the development of wireless capability for the first Bi-Propellant Liquid Engine 
+Rocket in Puerto Rico; individually coding wireless service into more than a dozen microcontroller-fed 
+sensors and valves, while connecting their data to an Influxdb backend -> MQTT broker -> TS/CSS website. 
+[C++, C, Assembly, Python, TypeScript, JavaScript, Python, Embedded Systems] 
+- Managed to display sub-second remote data telemetry on front-end, previously handled via manual 
+loading, such as in Influxdb, and assisted in the overall design and representation of system data within 
+front-end website. [JavaScript, HTML, CSS, Web Dev/Design, Data Base/Analytics] 
+Industry Relevant Projects - All available in https://github.com/JeshuaLinderJ 
+Automated YouTube/Spotify Playlist                    Jan 2025 
+- Developed series of python scripts to parse contents of iPod Classic, to automatically create online music 
+playlists, and document unrecognized songs within Spotify database for family member 
+- Applied knowledge of APIs via Google & Spotify tools, to solve personal dilemma with apple product that 
+lacked online solution 
+- Direct line of thinking to tangible solution within a single day, delivering solution in a consumable format; 
+used knowledge from Google Data Analytics course 
+Automated Dice via Microcontroller                       Dec 2024 
+- Created tool to automate physical dice of 2, 4, 6, 8, 10, 12, 20, & 100 sides, with an intuitive custom 
+menu GUI, and vector animated “rolling” 
+- Strengthened proficiency with microcontrollers, engaging in a deeply passionate and time-consuming 
+project with no academic/monetary incentive 
+- Product development and showcase, demonstrating ability to both initiate and produce results 
+Skills 
+- Languages: Python (3.10-3.12), Java , C++ (v20^, Arduino), C, JavaScript (Node 18-24, React), CSS, HTML, 
+Dart, Swift, Lua, JSON, ASM (ARM64), TypeScript, Tailwind CSS, SQL 
+- Software: Docker, Firebase, Git (GitLab, GitHub, Git CLI), GitHub Actions, Influxdb, Stripe API, Virtual 
+Machines, Embedded Software, REST API, LLM, Google APIs, Twilio, NoSQL, Xcode, Android Studio, 
+Vercel, Payment Service API, MacOS, Windows (7, 10, 11), Linux (Ubuntu, Debian, Mint, Kali, Arch), iOS, 
+Android, GCloud CLI, AI Assisted Development 
+- Soft Skills: Leadership, compromise, critical thinking, multicultural/multilanguage communication, 
+project management, agile methodology, public speaking, marketing, negotiation 

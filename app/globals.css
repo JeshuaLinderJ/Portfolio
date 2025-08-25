@@ -1,3 +1,64 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px; /* Account for fixed header */
+  }
+
+  body {
+    @apply bg-surface-50 text-primary-800;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-surface-100;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary-300 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary-400;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-20 px-4 md:py-24 md:px-6;
+  }
+
+  .container-max {
+    @apply max-w-7xl mx-auto;
+  }
+
+  .glass-effect {
+    @apply bg-white/80 backdrop-blur-sm border border-surface-200/50;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-gradient-to-r from-accent-blue to-accent-purple text-white rounded-lg font-medium
+           hover:shadow-soft-lg transform hover:scale-105 transition-all duration-200 ease-out;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-surface-100 border border-surface-200 text-primary-700 rounded-lg font-medium
+           hover:bg-surface-200 hover:shadow-soft transition-all duration-200 ease-out;
+  }
+
+  .card {
+    @apply bg-white rounded-xl border border-surface-200 shadow-soft hover:shadow-soft-lg
+           transition-all duration-300 ease-out;
+  }
+
+  .icon-hover {
+    @apply transition-all duration-200 ease-out hover:scale-110 hover:rotate-3;
+  }
+}
