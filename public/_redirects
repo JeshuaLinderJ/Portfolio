@@ -1,0 +1,7 @@
+# Redirects for Cloudflare Pages deployment
+
+# Handle Next.js routing - serve index.html for all routes
+/*    /index.html   200
+
+# Ensure resume is accessible
+/resume    /resume.pdf   301
