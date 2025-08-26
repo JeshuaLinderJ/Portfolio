@@ -1,0 +1,10 @@
+{
+  "build": {
+    "command": "npm run build",
+    "destination": "out"
+  },
+  "preview": {
+    "command": "npm run build",
+    "destination": "out"
+  }
+}
